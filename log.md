@@ -30,4 +30,3 @@ Combination of two tutorials
 
 **Link(s) to work**
 1. [Hover Glitch Effect](https://codepen.io/reynaldo-00/pen/vaQdzY)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
