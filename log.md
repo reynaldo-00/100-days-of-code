@@ -26,6 +26,10 @@ Combination of two tutorials
 1. [CSS Glitch Effect](https://tympanus.net/codrops/2017/12/21/css-glitch-effect/)
 2. [CSS Glitch Hover Effects - Html CSS Image Hover Effects](https://www.youtube.com/watch?v=r2HijzmwZzk)
 
+Stublink Work
+1. Changed Chat file structure and export statements for cleaner import statements
+2. Implemented loading earlier messages on ChatPage component
+
 **Thoughts** Using the filter and clip-path css tags are very new to me definitly see huge benefits in fully learning them for use in later front end designs
 
 **Link(s) to work**
