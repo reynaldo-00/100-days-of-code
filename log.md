@@ -32,3 +32,18 @@ Feeling more confident with CSS/Sass design production speed has increased
 
 
 **Link to work:** [Dating App Profile Card](https://codepen.io/reynaldo-00/pen/LBqGQW)
+
+https://codepen.io/reynaldo-00/pen/bjzmBP
+
+### Day 03: Aug 11th, 2018
+
+**Today's Progress:**
+1. Made timer for pomodoro everywhere react js app with minutes seconds and mili seconds
+2. Designed a loading icon animation
+
+**Thoughts:** 
+1. Timer was fun to figure out, next up it to larn how to pause it, quick search i realized ill have to use timepassed function instead of set interval
+2. Learned how to use raw svg and cirlce tags alogn with the ::before ::after tags in CSS3
+
+
+**Link to work:** [Animated Loading Icon](https://codepen.io/reynaldo-00/pen/bjzmBP)
