@@ -42,8 +42,17 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 2. Designed a loading icon animation
 
 **Thoughts:** 
-1. Timer was fun to figure out, next up it to larn how to pause it, quick search i realized ill have to use timepassed function instead of set interval
-2. Learned how to use raw svg and cirlce tags alogn with the ::before ::after tags in CSS3
+1. Timer was fun to figure out, next up it to learn how to pause it, quick search i realized ill have to use timepassed function instead of set interval
+2. Learned how to use raw svg and cirlce tags along with the ::before ::after tags in CSS3
 
 
 **Link to work:** [Animated Loading Icon](https://codepen.io/reynaldo-00/pen/bjzmBP)
+
+
+### Day 04: Aug 12th, 2018
+
+**Today's Progress:**
+1. Converted timer to use Date.now() function instead of just interval
+
+**Thoughts:** 
+1. Functionality much better now, works dynamically with different times. Goal tommorow is to desing the UI
