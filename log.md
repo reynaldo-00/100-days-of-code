@@ -56,3 +56,15 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Thoughts:** 
 1. Functionality much better now, works dynamically with different times. Goal tommorow is to desing the UI
+
+
+### Day 05: Aug 13th, 2018
+
+**Today's Progress:**
+1. Animated Dating Profile Card
+2. Tried to replicated a couple codepen pomodoro timers for inpiration
+
+**Thoughts:** 
+1. Still trying to decide on a style for pomodoro timer that will make sense across all platforms which would be Web, Mobile Web, iOS, Android, Google Chrome Extension
+
+**Link to work:** [Dating Profile Card Animated](https://codepen.io/reynaldo-00/pen/LBqGQW)
