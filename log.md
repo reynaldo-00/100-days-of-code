@@ -69,7 +69,7 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Link to work:** [Dating Profile Card Animated](https://codepen.io/reynaldo-00/pen/LBqGQW)
 
-### Day 06: Aug 13th, 2018
+### Day 06: Aug 14th, 2018
 
 **Today's Progress:**
 1. Learned how to use nodemailer for stublink newsletter
