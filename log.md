@@ -62,7 +62,7 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Today's Progress:**
 1. Animated Dating Profile Card
-2. Tried to replicated a couple codepen pomodoro timers for inpiration
+2. Tried to replicated a couple codepen pomodoro timers for inspiration
 
 **Thoughts:** 
 1. Still trying to decide on a style for pomodoro timer that will make sense across all platforms which would be Web, Mobile Web, iOS, Android, Google Chrome Extension
@@ -76,3 +76,13 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Thoughts:** 
 1. Thought setting up a mail server would be alot more complicated but it isn't at least in theory will implement tomorrow
+
+### Day 07: Aug 15th, 2018
+
+**Today's Progress:**
+1. Setup mailgun to work with stublink cns
+2. Got through new sections in Advanced react native course using jwt and passport authentication
+
+**Thoughts:** 
+1. Mailgun setup was pretty straight forward
+2. Have a much better grasp of JWT and PAssport now i want to feel more comftrable with mongodb
