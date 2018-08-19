@@ -86,3 +86,12 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 **Thoughts:** 
 1. Mailgun setup was pretty straight forward
 2. Have a much better grasp of JWT and PAssport now i want to feel more comftrable with mongodb
+
+
+### Day 08: Aug 18th, 2018
+
+**Today's Progress:**
+1. Changed pmdr timer design and buttons added options
+
+**Thoughts:** 
+1. Next step is to add a working backend signing in/up with oath2 and syncing timers across sessions
