@@ -95,3 +95,19 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Thoughts:** 
 1. Next step is to add a working backend signing in/up with oath2 and syncing timers across sessions
+
+### Day 09: Aug 19th, 2018
+
+**Today's Progress:**
+1. Added debounce to buttons on pomodoro timer 
+
+**Thoughts:** 
+1. lodash definitly a usefull library to know
+
+### Day 010: Aug 20th, 2018
+
+**Today's Progress:**
+1. Made login page and route using react-router-dom library
+
+**Thoughts:** 
+1. Next steps are to hookup with mongodb for authentication and Oauth2
