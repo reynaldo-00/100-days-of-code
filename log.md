@@ -111,3 +111,13 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Thoughts:** 
 1. Next steps are to hookup with mongodb for authentication and Oauth2
+
+### Day 011: Aug 21th, 2018
+
+**Today's Progress:**
+1. Finished authentication server boiler-plate
+
+**Thoughts:** 
+1. Nice to know i can easily resue this boilerplate going forward for any authentication needs
+
+**Link to work:** [Authentication Boilerplate](https://github.com/reynaldo-00/auth-server)
