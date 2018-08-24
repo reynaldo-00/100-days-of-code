@@ -140,3 +140,12 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 **Thoughts:** 
 1. Android error were more straight forward than i thought
 2. Excited too have a better understanding of mongodb
+
+### Day 014: Aug 24th, 2018
+
+**Today's Progress:**
+1. Setup post request for pmodoro live api
+2. Start, Pause, Reset functions
+
+**Thoughts:** 
+1. Next up is making it update on the client when values are updated server side (realtime db)
