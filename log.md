@@ -121,3 +121,22 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 1. Nice to know i can easily resue this boilerplate going forward for any authentication needs
 
 **Link to work:** [Authentication Boilerplate](https://github.com/reynaldo-00/auth-server)
+
+### Day 012: Aug 22th, 2018
+
+**Today's Progress:**
+1. Setup up client side authentication for pomodor live app
+
+**Thoughts:** 
+1. Good to come full circle on authentication process
+
+
+### Day 013: Aug 23th, 2018
+
+**Today's Progress:**
+1. Fixed android error for stublink react native app
+2. Got started on mongodb course
+
+**Thoughts:** 
+1. Android error were more straight forward than i thought
+2. Excited too have a better understanding of mongodb
