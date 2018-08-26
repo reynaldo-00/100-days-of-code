@@ -149,3 +149,11 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Thoughts:** 
 1. Next up is making it update on the client when values are updated server side (realtime db)
+
+### Day 015: Aug 24th, 2018
+
+**Today's Progress:**
+1. Made progess on socket.io integration for real time updating when logged in
+
+**Thoughts:** 
+1. Lots of room for growth with socket.io will make a specific project to learn more about it
