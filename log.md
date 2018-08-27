@@ -150,10 +150,18 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 **Thoughts:** 
 1. Next up is making it update on the client when values are updated server side (realtime db)
 
-### Day 015: Aug 24th, 2018
+### Day 015: Aug 25th, 2018
 
 **Today's Progress:**
 1. Made progess on socket.io integration for real time updating when logged in
 
 **Thoughts:** 
 1. Lots of room for growth with socket.io will make a specific project to learn more about it
+
+### Day 016: Aug 26th, 2018
+
+**Today's Progress:**
+1. Understood and Decided on socket io structure for pomodoro live app
+
+**Thoughts:** 
+1. Was tough to wrap my head around when the socket connection was being initialized, once i realized it was when socket was being declared with openSocket things started making sense. Decided to have a api folder with files that'll hold all the socket io  logic them import those functions into my actions and evidently call them from action creators.
