@@ -165,3 +165,16 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Thoughts:** 
 1. Was tough to wrap my head around when the socket connection was being initialized, once i realized it was when socket was being declared with openSocket things started making sense. Decided to have a api folder with files that'll hold all the socket io  logic them import those functions into my actions and evidently call them from action creators.
+
+
+### Day 016: Aug 27th, 2018
+
+**Today's Progress:**
+1. First day of lambda school, whent over basic html and css
+
+**Thoughts:** 
+1. Was suprised to learn about semantic html tags never actually knew their functionality as far as SEO goes.
+
+**Link to work:** 
+1.[Semantic CSS](https://codepen.io/reynaldo-00/pen/VGeGpY)
+2.[CSS Project](https://codepen.io/reynaldo-00/pen/EePemM)
