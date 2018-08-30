@@ -201,3 +201,16 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 
 **Link to work:** 
 1.[Flexbox and Mobile Friendly Design](https://github.com/LambdaSchool/UI-II-Flexbox/pull/233)
+
+### Day 020: Aug 30th, 2018
+
+**Today's Progress:**
+1. Lambda-Hello Git project
+
+**Thoughts:** 
+1. Was good recap of using git cli and helped engrave git flow
+
+**Link to work:** 
+1.[Pull request #1](https://github.com/LambdaSchool/Lambda-Hello/pull/345)
+2.[Pull request #2](https://github.com/LambdaSchool/Lambda-Hello/pull/351)
+
