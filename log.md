@@ -167,7 +167,7 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 1. Was tough to wrap my head around when the socket connection was being initialized, once i realized it was when socket was being declared with openSocket things started making sense. Decided to have a api folder with files that'll hold all the socket io  logic them import those functions into my actions and evidently call them from action creators.
 
 
-### Day 016: Aug 27th, 2018
+### Day 017: Aug 27th, 2018
 
 **Today's Progress:**
 1. First day of lambda school, whent over basic html and css
@@ -178,3 +178,26 @@ https://codepen.io/reynaldo-00/pen/bjzmBP
 **Link to work:** 
 1.[Semantic CSS](https://codepen.io/reynaldo-00/pen/VGeGpY)
 2.[CSS Project](https://codepen.io/reynaldo-00/pen/EePemM)
+
+### Day 018: Aug 28th, 2018
+
+**Today's Progress:**
+1. Second Dya of LAmbda School was forced to ddesing page using inlin-block
+
+**Thoughts:** 
+1. Flexbox is our savior
+
+**Link to work:** 
+1.[Inline Block Design](https://github.com/LambdaSchool/User-Interface/pull/418)
+
+
+### Day 019: Aug 29th, 2018
+
+**Today's Progress:**
+1. Redesiged page using flexbox <3>
+
+**Thoughts:** 
+1. Was pretty straight forward good flow today, forgot to use viewport meta tag for responsive design
+
+**Link to work:** 
+1.[Flexbox and Mobile Friendly Design](https://github.com/LambdaSchool/UI-II-Flexbox/pull/233)
